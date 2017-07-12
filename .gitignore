@@ -1,4 +1,10 @@
+#pycharm
+.idea
+#VS
+.vs
+#generate file
 *.sh
 *.txt
 *.bat
 ip-*
+/iplist
