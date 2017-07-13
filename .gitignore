@@ -3,6 +3,7 @@
 #VS
 .vs
 #generate file
+iplist
 *.sh
 *.txt
 *.bat
