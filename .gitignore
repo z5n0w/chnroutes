@@ -4,8 +4,6 @@
 .vs
 #generate file
 iplist
-*.sh
-*.txt
-*.bat
-ip-*
-/iplist
+*.action
+#test
+test.*
